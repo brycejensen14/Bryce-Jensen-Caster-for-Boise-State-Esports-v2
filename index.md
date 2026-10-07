@@ -637,7 +637,7 @@ Welcome to my official portfolio and highlight clip repository.
 
             <!-- Social Links -->
             <div class="flex items-center gap-4 text-gray-400 text-lg">
-                <a href="https://www.twitch.tv/boisestate" target="_blank" class="hover:text-purple-400 transition-colors" title="Twitch"><i class="fa-brands fa-twitch"></i></a>
+                <a href="https://www.twitch.tv" target="_blank" class="hover:text-purple-400 transition-colors" title="Twitch"><i class="fa-brands fa-twitch"></i></a>
                 <a href="https://twitter.com" target="_blank" class="hover:text-blue-400 transition-colors" title="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a>
                 <a href="https://youtube.com" target="_blank" class="hover:text-red-500 transition-colors" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
                 <a href="https://discord.com" target="_blank" class="hover:text-indigo-400 transition-colors" title="Discord"><i class="fa-brands fa-discord"></i></a>
